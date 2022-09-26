@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+text-align: center;
+font-family: verdana; 
+background: #AF7AC5;
+}
+
+.agrupar{
+	border: 3px solid black;
+	background: blue;
+		display: inline-block;
+}
+.menu {
+	
+		background: red;
+		font-size: 16px;
+		border: 2px solid black;
+		display: inline-block;
+		padding: 15px;
+	}	
+
+.Principal {
+		background: aqua;
+		font-size: 16px;
+		border: 2px solid black;
+		display: inline-block;
+		padding: 15px;
+}
+
+.Ayuda {
+	background: yellow;
+	text-align: center;
+	font-size: 16px;
+	border: 2px solid black;
+	display: inline-block;
+	padding: 15px;
+}
+
+.Contacto {
+	background: pink;
+	text-align: center;
+	font-size: 16px;
+	border: 2px solid black;
+	display: inline-block;
+	padding: 15px;
+}
+
+

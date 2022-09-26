@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+
+
+}
+body {
+text-align: center;
+font-family: verdana; 
+
+}
+
+.Yo{
+	color: #A100FF;
+	font-size: 65px;
+	font-family: impact;
+}
+
+
+.agrupar{
+	border: 3px solid black;
+	background: #FF00D8;
+	display: inline-block;
+	}
+
+.menu {
+		background: blue;
+		font-size: 16px;
+		border: 2px solid black;
+		display: inline-block;
+		padding: 9px;
+		font-family: times new roman;
+	}	

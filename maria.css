@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+
+
+}
+body {
+text-align: center;
+font-family: verdana; 
+
+}
+
+
+.agrupar{
+	border: 3px solid black;
+	background: #FF00D8;
+	display: inline-block;
+	}
+
+.menu {
+		background: #FF00D8;
+		font-size: 16px;
+		border: 2px solid black;
+		display: inline-block;
+		padding: 9px;
+	}	
+
+	.María{
+
+		color:#FF00D8;
+		font-size: 40px;
+	}
+
+
+	.tabla{
+		background: red;
+		border: 3px solid black;
+		display: inline-table;
+		text-align: center;
+
+	}

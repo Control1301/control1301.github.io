@@ -1,0 +1,117 @@
+*{
+	margin: 0;
+	padding: 0;
+
+
+}
+body {
+text-align: center;
+font-family: verdana; 
+
+}
+
+.agrupar{
+	border: 3px solid black;
+	background: blue;
+	display: inline-block;
+}	
+.menu {
+	
+		background: red;
+		font-size: 16px;
+		border: 2px solid black;
+		display: inline-block;
+		padding: 15px;
+	}	
+
+.Principal {
+		background: aqua;
+		font-size: 16px;
+		border: 2px solid black;
+		display: inline-block;
+		padding: 15px;
+}
+
+.Ayuda {
+	background: yellow;
+	text-align: center;
+	font-size: 16px;
+	border: 2px solid black;
+	display: inline-block;
+	padding: 15px;
+}
+
+.Contacto {
+	background: pink;
+	text-align: center;
+	font-size: 16px;
+	border: 2px solid black;
+	display: inline-block;
+	padding: 15px;
+}
+
+.agrupar2{
+
+	border: 3px solid black;
+	background: grey;
+	display: inline-block;
+	text-align: center;
+}
+
+
+.Canela{
+	background: #4A4E4A;
+	text-align: center;
+	font-size: 32px;
+	border: 2px solid black;
+	display: inline-block;
+	padding: 5px;
+
+}
+
+.Maria{
+	background: #17DF14;
+	text-align: center;
+	font-size: 32px;
+	border: 2px solid black;
+	display: inline-block;
+	padding: 5px;
+
+}
+
+.Samir{
+	background: #5CB5FA;
+	text-align: center;
+	font-size: 32px;
+	border: 2px solid black;
+	display: inline-block;
+	padding: 5px;
+}
+
+
+.Friends{
+	color: #FF0092;
+	text-align: center;
+	font-size: 40px;
+	padding: 5px;
+	border: 3px solid black;
+	display: inline-block;
+	background: #828282;
+}
+
+.Index {
+color: black; 
+font-size: 40px;
+text-align: center;
+padding: 5px;
+border: 3px solid black;
+display: inline-block;
+background: #828282;
+}
+
+.texto{
+	color: white;
+}
+
+
+

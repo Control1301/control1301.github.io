@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+
+
+}
+body {
+text-align: center;
+font-family: tahoma; 
+
+}
+
+
+.agrupar{
+	border: 3px solid black;
+	background: #80C5FF;
+	display: inline-block;
+	}
+
+.menu {
+		background: #80C5FF;
+		font-size: 16px;
+		border: 2px solid black;
+		display: inline-block;
+		padding: 9px;
+	}	
+
+	.Canelita{
+
+		color:#62B7FF;
+		font-size: 40px;
+	}
